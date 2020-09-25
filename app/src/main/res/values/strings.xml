@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameServiceDemo</string>
+    <string name="onfail">Error! Code: </string>
+    <string name="time">Played time: %1$d</string>
+    <string name="onsaved">Game saved</string>
+    <string name="description">Savegame</string>
+</resources>

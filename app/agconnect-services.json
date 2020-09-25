@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"1340007000005247584",
+		"product_id":"736430079244544362",
+		"client_id":"397980031822857280",
+		"client_secret":"5034F060D7B32F63E36684764F785B5D8D330E8B475E68F22B5D60F73B7F727C",
+		"app_id":"102501519",
+		"package_name":"com.huawei.gameservice",
+		"api_key":"CgB6e3x9udjbi0yqw9Y3Vqup2daC6Pd41c2xvwJKJ1C0jIg3w4ClyQhlVVIaN4O3fwG4aPAmefgCzxVMYP3xky07"
+	},
+	"configuration_version":"1.0"
+}
